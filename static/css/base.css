@@ -56,6 +56,14 @@ body {
     border: 1px solid black !important;
 }
 
+.bg-black {
+    background: #000 !important;
+}
+
+.transparent {
+    background-color:transparent;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
